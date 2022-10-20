@@ -1,0 +1,15 @@
+C:\Users\Abilena\source\repos\Week 4\Design Patterns Lab\Design Patterns Lab\bin\Debug\net6.0\Design Patterns Lab.exe
+C:\Users\Abilena\source\repos\Week 4\Design Patterns Lab\Design Patterns Lab\bin\Debug\net6.0\Design Patterns Lab.deps.json
+C:\Users\Abilena\source\repos\Week 4\Design Patterns Lab\Design Patterns Lab\bin\Debug\net6.0\Design Patterns Lab.runtimeconfig.json
+C:\Users\Abilena\source\repos\Week 4\Design Patterns Lab\Design Patterns Lab\bin\Debug\net6.0\Design Patterns Lab.dll
+C:\Users\Abilena\source\repos\Week 4\Design Patterns Lab\Design Patterns Lab\bin\Debug\net6.0\Design Patterns Lab.pdb
+C:\Users\Abilena\source\repos\Week 4\Design Patterns Lab\Design Patterns Lab\obj\Debug\net6.0\Design Patterns Lab.csproj.AssemblyReference.cache
+C:\Users\Abilena\source\repos\Week 4\Design Patterns Lab\Design Patterns Lab\obj\Debug\net6.0\Design Patterns Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abilena\source\repos\Week 4\Design Patterns Lab\Design Patterns Lab\obj\Debug\net6.0\Design Patterns Lab.AssemblyInfoInputs.cache
+C:\Users\Abilena\source\repos\Week 4\Design Patterns Lab\Design Patterns Lab\obj\Debug\net6.0\Design Patterns Lab.AssemblyInfo.cs
+C:\Users\Abilena\source\repos\Week 4\Design Patterns Lab\Design Patterns Lab\obj\Debug\net6.0\Design Patterns Lab.csproj.CoreCompileInputs.cache
+C:\Users\Abilena\source\repos\Week 4\Design Patterns Lab\Design Patterns Lab\obj\Debug\net6.0\Design Patterns Lab.dll
+C:\Users\Abilena\source\repos\Week 4\Design Patterns Lab\Design Patterns Lab\obj\Debug\net6.0\refint\Design Patterns Lab.dll
+C:\Users\Abilena\source\repos\Week 4\Design Patterns Lab\Design Patterns Lab\obj\Debug\net6.0\Design Patterns Lab.pdb
+C:\Users\Abilena\source\repos\Week 4\Design Patterns Lab\Design Patterns Lab\obj\Debug\net6.0\Design Patterns Lab.genruntimeconfig.cache
+C:\Users\Abilena\source\repos\Week 4\Design Patterns Lab\Design Patterns Lab\obj\Debug\net6.0\ref\Design Patterns Lab.dll
